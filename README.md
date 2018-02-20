@@ -1,2 +1,1 @@
-# mat-imagesearch
-Service to search for images
+# Backend Challenges boilerplate - package.json
